@@ -274,7 +274,7 @@ header nav ul li a {
 
 /* media query for mobile phones */
 
-   @media screen and (max-width: 575px) {
+   @media screen and (max-width: 500px) {
     .sections h3 {
         text-align: center;
         flex: 1 100%;
