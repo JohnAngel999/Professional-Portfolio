@@ -32,4 +32,4 @@ alt="screenshot of website" />
 
 ### Website Link
 
-<a href="https://johnangel999.github.io/Professional-Portfolio" target="_blank" Portfolio Link></a>
+[Prefessional Portfolio](https://johnangel999.github.io/Professional-Portfolio/)
