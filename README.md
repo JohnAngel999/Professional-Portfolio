@@ -27,4 +27,5 @@ SO THAT I can review samples of their work and assess whether they're a good can
 </ul>
 
 ### Website Screenshot
-<img src="../images/websitescreenshot.jpg">
+<img src="./assets/images/websitescreenshot.jpg"
+alt="screenshot of website" />
